@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm [Ayush Bhardwaj]
 
-<!--
-**Ayushbhardwaj7761/Ayushbhardwaj7761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a passionate web developer and programming enthusiast.  
+I love building websites and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Programming Language
+- Python
+
+---
+
+## 🌱 Currently Learning
+- Full Stack Web Development
+- MERN Stack
+- Backend Development
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/yourusername
+
+---
+
+## ⚡ Fun Fact
+I enjoy coding and creating cool web projects.
