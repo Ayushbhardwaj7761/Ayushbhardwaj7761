@@ -1,35 +1,31 @@
-# Hi 👋, I'm [Ayush Bhardwaj]
+# Hi 👋, I'm Ayush Bhardwaj
 
-## 🚀 About Me
-I am a passionate web developer and programming enthusiast.  
-I love building websites and learning new technologies.
+## 💫 About Me
+Passionate Full Stack Web Developer focused on building responsive, modern, and scalable web applications.  
+Always eager to learn new technologies and improve problem-solving skills through real-world projects.
 
 ---
 
-## 💻 Skills
+## 🛠️ Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
-### Programming Language
-- Python
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
-- Full Stack Web Development
-- MERN Stack
-- Backend Development
+- MERN Stack Development
+- REST API Development
+- Backend Architecture
+- Advanced JavaScript
+
+---
+
+## 🎯 Goals
+- Build impactful full stack projects
+- Contribute to open-source
+- Improve DSA & problem-solving skills
 
 ---
 
@@ -39,4 +35,4 @@ I love building websites and learning new technologies.
 ---
 
 ## ⚡ Fun Fact
-I enjoy coding and creating cool web projects.
+I enjoy transforming ideas into interactive and real-world web applications.
