@@ -34,7 +34,7 @@ I love building websites and learning new technologies.
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/Ayushbhardwaj7761
 
 ---
 
